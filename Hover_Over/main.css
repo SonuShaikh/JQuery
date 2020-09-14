@@ -1,0 +1,9 @@
+#hoverover{
+	display:none;
+	padding:5px;
+	border:1px solid red;
+	position:absolute;
+	background-color:cyan;
+	font-size:14;
+	color:blue;
+}

@@ -1,0 +1,9 @@
+$(document).ready(function(){
+	$('#image').hide();
+});
+$('#start').click(function(){
+	$('#image').slideToggle(3000);
+});
+$('#stop').click(function(){
+	$('#image').stop();
+});

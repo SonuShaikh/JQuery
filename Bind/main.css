@@ -1,0 +1,7 @@
+.bold{
+	font-weight:bold;
+	background-color:yellow;
+	padding:5px;
+	border:1px solid red;
+	text-decoration:none;
+}
